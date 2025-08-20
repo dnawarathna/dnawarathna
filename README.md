@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **flutter and Figma**
 
-- 📫 How to reach me **dasuni93420@gmail.com**
+- 📫 How to reach me **dasuninaw@gmail.com**
 
 - ⚡ Fun fact **Call me as Dasu**
 
